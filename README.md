@@ -2,15 +2,12 @@
 
 # Lucas Dezem
 
-<strong>Analista de Sistemas Jr. | TOTVS / Linx</strong>
+<strong>Desenvolvimento • Infraestrutura de TI • Redes • Cloud Computing</strong>
 
-<p>Desenvolvimento • Infraestrutura de TI • Redes • Cloud Computing</p>
 
 <img src="https://img.shields.io/badge/Desenvolvimento-007ACC?style=for-the-badge&amp;labelColor=0D1117" alt="Desenvolvimento" height="28">
 <img src="https://img.shields.io/badge/Infraestrutura-161B22?style=for-the-badge&amp;labelColor=0D1117" alt="Infraestrutura" height="28">
 <img src="https://img.shields.io/badge/Cloud-00BFFF?style=for-the-badge&amp;labelColor=0D1117" alt="Cloud" height="28">
-
-<p><em>Compreender sistemas. Investigar desafios. Construir soluções.</em></p>
 
 </div>
 
@@ -50,7 +47,7 @@ Tecnologias, ferramentas e áreas de conhecimento que fazem parte do meu repert�
 
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge)
-[Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Proxmox VE](https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
